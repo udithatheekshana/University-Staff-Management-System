@@ -125,7 +125,7 @@ Staff (Abstract Class)
 -- Main
 
 
----
+
 
 ## Sample Output
 
@@ -203,6 +203,6 @@ This project demonstrates:
 
 **Name:** Uditha Theekshana
 
-**Course:** ICT / Object-Oriented Programming
+**Course:** ICT / Object-Oriented Programming (Bsc in IT university of vavniya)
 
 **Language:** Java
