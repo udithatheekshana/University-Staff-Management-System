@@ -201,7 +201,7 @@ This project demonstrates:
 
 ## Author
 
-**Name:** Your Name
+**Name:** Uditha Theekshana
 
 **Course:** ICT / Object-Oriented Programming
 
